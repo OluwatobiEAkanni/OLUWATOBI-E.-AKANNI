@@ -83,8 +83,8 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 
 ## Thesis
 - <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/tree/main">DIGITAL FORENSICS IN PRACTICE</a>
--  <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER"> PEN TESTING A SERVER</a>
-- THREAT MODELING
+- <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER"> PEN TESTING A SERVER</a>
+- <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/tree/main">THREAT MODELING   </a>
 - SITUATIONAL AWARENESS
 - FOOTBALL FANTASY PREMIER LEAGUE
 - PSNI SECURITY POLICY
