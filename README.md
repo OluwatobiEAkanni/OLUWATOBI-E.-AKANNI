@@ -89,3 +89,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 - FOOTBALL FANTASY PREMIER LEAGUE
 - PSNI SECURITY POLICY
 
+## Publications
+<a href="https://scholar.google.com/citations?user=fqqaI-sAAAAJ&hl=en">Open-source cloud computing platforms: comparative study</a>
+
+
