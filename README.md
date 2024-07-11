@@ -14,8 +14,8 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Analysis and Modeling          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Threat Analysis and Modeling          | <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/tree/main">DIGITAL FORENSICS IN PRACTICE</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OluwatobiEAkanni/OLUWATOBI-E.-AKANNI/edit/main/README.md"> DIGITAL FORENSICS IN PRACTICE</a>|
 | Vulnerability Assessment and Management        | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Solution Development and Implementation      | SOC Automation Lab|
@@ -82,7 +82,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 </div>
 
 ## Thesis
-- DIGITAL FORENSICS IN PRACTICE
+- <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/tree/main">DIGITAL FORENSICS IN PRACTICE</a>
 - PEN TESTING A SERVER
 - THREAT MODELING
 - SITUATIONAL AWARENESS
