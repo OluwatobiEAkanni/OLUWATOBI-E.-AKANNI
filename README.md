@@ -11,30 +11,30 @@ As a soon-to-be Master's graduate in Cyber Security and a Bachelor's degree hold
 My journey in computer science has fueled my passion for cybersecurity, and I now aspire to transition into a career in penetration testing. My goal is to join a team as a Junior Penetration Tester, where I can utilize my skills to simulate attacks, identify vulnerabilities, and help organizations strengthen their defenses.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Threat Analysis and Modeling          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Vulnerability Assessment and Management        | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
+| Solution Development and Implementation      | SOC Automation Lab|
+| Staying Current with Emerging Threats and Technologies      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+## Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
+   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" alt="Nmap Badge" />
 </div>
     
-## Endpoint Security
+## Endpoint Security 
 
 <div>
-    <img src="https://img.shields.io/badge/-Auditd-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Auditd-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Auditd Badge" />
     <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
@@ -65,7 +65,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
     <img src="https://img.shields.io/badge/-CaseNotes Professional-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### SIEM
+## 
 <div>
     <img src="https://img.shields.io/badge/-ELK Stack (Elasticsearch, Logstash, Kibana)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-OSSIM (Open Source SIEM)-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -81,6 +81,11 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Thesis
+- DIGITAL FORENSICS IN PRACTICE
+- PEN TESTING A SERVER
+- THREAT MODELING
+- SITUATIONAL AWARENESS
+- FOOTBALL FANTASY PREMIER LEAGUE
+- PSNI SECURITY POLICY
+
