@@ -1,14 +1,14 @@
 # OLUWATOBI-E.-AKANNI
 Welcome to my GitHub page! I'm Oluwatobi E. Akanni, a cyber analyst passionate about improving cybersecurity. Explore my projects, scripts, and tools related to threat analysis, vulnerability assessment, and incident response. Let's collaborate and make the cyber world safer!
 
-# Hello, # OLUWATOBI-E.-AKANNI
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, OLUWATOBI E. AKANNI
+<a href="https://www.linkedin.com/in/akanni-oluwatobi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 As a soon-to-be Master's graduate in Cyber Security and a Bachelor's degree holder in Computer Science, I possess a solid foundation in the theoretical and practical aspects of computer systems and cybersecurity principles. With a strong background in programming, data structures, algorithms, and software engineering, I have developed a passion for protecting digital assets and ensuring the integrity of computer systems. Through my academic and professional journey, I have gained expertise in threat analysis, vulnerability assessment, incident response, and security research. I am excited to bring my skills and knowledge to a dynamic and innovative environment, where I can contribute to the development of cutting-edge cybersecurity solutions and stay ahead of the evolving threats in the cyber world.
-## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Objective
+
+My journey in computer science has fueled my passion for cybersecurity, and I now aspire to transition into a career in penetration testing. My goal is to join a team as a Junior Penetration Tester, where I can utilize my skills to simulate attacks, identify vulnerabilities, and help organizations strengthen their defenses.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -28,21 +28,47 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</div>
+    
+## Endpoint Security
+
+<div>
+    <img src="https://img.shields.io/badge/-Auditd-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### Endpoint
+ ##  Endpoint Detection and Response (EDR)
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+## Incident Response
+<div>
+    <img src="https://img.shields.io/badge/-Volatility-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+## System Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Sysinternals-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+## Malware Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Burp Suite-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+## Forensic Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AccessData FTK Imager-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CaseNotes Professional-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ELK Stack (Elasticsearch, Logstash, Kibana)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSSIM (Open Source SIEM)-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
