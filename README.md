@@ -1,5 +1,5 @@
 # OLUWATOBI-E.-AKANNI
-Welcome to my GitHub page! I'm Oluwatobi E. Akanni, a cyber analyst passionate about improving cybersecurity. Explore my projects, scripts, and tools related to threat analysis, vulnerability assessment, and incident response. Let's collaborate and make the cyber world safer!
+
 
 # Hello, OLUWATOBI E. AKANNI
 <a href="https://www.linkedin.com/in/akanni-oluwatobi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
