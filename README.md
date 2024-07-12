@@ -1,7 +1,4 @@
-# OLUWATOBI-E.-AKANNI
-
-
-# Hello, OLUWATOBI E. AKANNI
+# Hello, I'm OLUWATOBI E. AKANNI
 <a href="https://www.linkedin.com/in/akanni-oluwatobi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 As a soon-to-be Master's graduate in Cyber Security and a Bachelor's degree holder in Computer Science, I possess a solid foundation in the theoretical and practical aspects of computer systems and cybersecurity principles. With a strong background in programming, data structures, algorithms, and software engineering, I have developed a passion for protecting digital assets and ensuring the integrity of computer systems. Through my academic and professional journey, I have gained expertise in threat analysis, vulnerability assessment, incident response, and security research. I am excited to bring my skills and knowledge to a dynamic and innovative environment, where I can contribute to the development of cutting-edge cybersecurity solutions and stay ahead of the evolving threats in the cyber world.
