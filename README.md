@@ -18,8 +18,9 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Solution Development and Implementation      | SOC Automation Lab|
 | Staying Current with Emerging Threats and Technologies      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Case Management with CaseNote Professional                 | SOC Automation Lab|
+| Scripting for Threat Mitigation | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md">SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE</a>| 
+| Comprehensive Information Security and Risk Management Expertise    | <a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md">PSNI-SECURITY-POLICY</a>| 
 
 <h2>Tools</h2> 
 
