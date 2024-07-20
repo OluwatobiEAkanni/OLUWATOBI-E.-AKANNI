@@ -14,9 +14,10 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 |-----------------------------------------------|----------------------------|
 | Threat Analysis and Modeling          | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md">THREAT MODELING</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md">SUITATIONAL AWARENESS REPORT USING PCAP FILE</a>|
-| Vulnerability Assessment and Management        | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Solution Development and Implementation      | SOC Automation Lab|
+| Vulnerability Assessment and Management        | <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md">PEN TESTING A SERVER</a>| 
+| Incident Response Planning and Execution      | <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md">PEN TESTING A SERVER</a>|
+| Solution Development and Implementation      | <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md">FOOTBALL FANTASY PREMIER LEAGUE</a>| 
+| Quantitative Data Analysis and Reporting    | <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md">FOOTBALL FANTASY PREMIER LEAGUE</a>| 
 | Staying Current with Emerging Threats and Technologies      | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md">THREAT MODELING</a>| 
 | Case Management with CaseNote Professional                 | <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/README.md">DIGITAL-FORENSICS IN PRACTICE</a>| 
 | Scripting and Automationfor Threat Mitigation | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md">SUITATIONAL AWARENESS REPORT USING PCAP FILE</a>| 
