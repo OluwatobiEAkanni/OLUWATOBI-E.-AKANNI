@@ -82,7 +82,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 - <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/DIGITAL%20FORENSICS%20IN%20PRACTICE.pdf">DIGITAL FORENSICS IN PRACTICE</a>
 - <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/PENTESTING%20A%20SERVER.pdf"> PEN TESTING A SERVER </a>
 - <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/THREAT%20MODEL.pdf"> THREAT MODELING   </a> 
-- <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/THREAT%20MODEL.pdf"> SITUATIONAL AWARENESS </a> 
+- <a href="https://github.com/OluwatobiEAkanni/SITUATIONAL-AWARENESS/blob/main/SUITATION%20AWARENESS%20.pdf"> SITUATIONAL AWARENESS </a> 
 - <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/THREAT%20MODEL.pdf"> FOOTBALL FANTASY PREMIER LEAGUE </a> 
 - <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/THREAT%20MODEL.pdf"> PSNI SECURITY POLICY </a>
 
