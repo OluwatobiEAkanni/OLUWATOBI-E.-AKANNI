@@ -61,7 +61,8 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 <div>
     <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge&logo=autopsy&logoColor=white" /></a>
 
-    <a href="https://accessdata.com/product-download/ftk-imager-version-4-5"><img src="https://img.shields.io/badge/FTK%20Imager-0072b1?style=for-the-badge&logo=accessdata&logoColor=white" /></a>
+   <a href="https://accessdata.com/product-download/AccessData-ftk-imager-version-4-5"><img src="https://img.shields.io/badge/FTK%20Imager-0072b1?style=for-the-badge&logo=accessdata&logoColor=white" /></a>
+
 
    <a href="https://www.casenotespro.com/"><img src="https://img.shields.io/badge/CaseNotes%20Professional-0072b1?style=for-the-badge&logo=casenotes&logoColor=white" /></a>
 
