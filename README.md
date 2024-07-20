@@ -12,12 +12,12 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Analysis and Modeling          | <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/tree/main">DIGITAL FORENSICS IN PRACTICE</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OluwatobiEAkanni/OLUWATOBI-E.-AKANNI/edit/main/README.md"> DIGITAL FORENSICS IN PRACTICE</a>|
+| Threat Analysis and Modeling          | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md">THREAT MODELING</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md">SUITATIONAL AWARENESS REPORT USING PCAP FILE</a>|
 | Vulnerability Assessment and Management        | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Solution Development and Implementation      | SOC Automation Lab|
-| Staying Current with Emerging Threats and Technologies      | SOC Automation Lab|
+| Staying Current with Emerging Threats and Technologies      | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md">THREAT MODELING</a>| 
 | Case Management with CaseNote Professional                 | <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/README.md">DIGITAL-FORENSICS IN PRACTICE</a>| 
 | Scripting and Automationfor Threat Mitigation | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md">SUITATIONAL AWARENESS REPORT USING PCAP FILE</a>| 
 | Comprehensive Information Security and Risk Management Expertise    | <a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md">PSNI SECURITY POLICY</a>| 
