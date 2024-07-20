@@ -25,30 +25,31 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 
 ## Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
-   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" alt="Nmap Badge" />
+    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
+   <a href="https://suricata.io/"><img src="https://img.shields.io/badge/Suricata-FF4500?style=for-the badge&logo=suricata&logoColor=white" /></a>
+    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" /></a>
 </div>
     
 ## Endpoint Security 
 
 <div>
-  <img src="https://img.shields.io/badge/-Auditd-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Auditd Badge" />
-    <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+ <a href="https://linux.die.net/man/8/auditd"><img src="https://img.shields.io/badge/Auditd-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>
+   <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon"><img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
 
  ##  Endpoint Detection and Response (EDR)
 <div>
-    <img src="https://img.shields.io/badge/-Elastic Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://www.elastic.co/endpoint-security"><img src="https://img.shields.io/badge/Elastic%20Endpoint-005571?style=for-the-badge&logo=elastic&logoColor=white" /></a>
 </div>
 
 ## Incident Response
 <div>
-    <img src="https://img.shields.io/badge/-Volatility-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://www.volatilityfoundation.org/"><img src="https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logo=volatility&logoColor=white" /></a>
 </div>
 
 ## System Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Sysinternals-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href="https://docs.microsoft.com/en-us/sysinternals/"><img src="https://img.shields.io/badge/Sysinternals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
 
 ## Malware Analysis
