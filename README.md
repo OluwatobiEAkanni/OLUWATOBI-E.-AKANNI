@@ -12,16 +12,16 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Analysis and Modeling          | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md">THREAT MODELING</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md">SUITATIONAL AWARENESS REPORT USING PCAP FILE</a>|
-| Vulnerability Assessment and Management        | <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md">PEN TESTING A SERVER</a>| 
-| Incident Response Planning and Execution      | <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md">PEN TESTING A SERVER</a>|
-| Solution Development and Implementation      | <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md">FOOTBALL FANTASY PREMIER LEAGUE</a>| 
-| Quantitative Data Analysis and Reporting    | <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md">FOOTBALL FANTASY PREMIER LEAGUE</a>| 
-| Staying Current with Emerging Threats and Technologies      | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md">THREAT MODELING</a>| 
-| Case Management with CaseNote Professional                 | <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/README.md">DIGITAL-FORENSICS IN PRACTICE</a>| 
-| Scripting and Automationfor Threat Mitigation | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md">SUITATIONAL AWARENESS REPORT USING PCAP FILE</a>| 
-| Comprehensive Information Security and Risk Management Expertise    | <a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md">PSNI SECURITY POLICY</a>| 
+| Threat Analysis and Modeling          | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"> <b>THREAT MODELING</b></a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a>|
+| Vulnerability Assessment and Management        | <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a>| 
+| Incident Response Planning and Execution      | <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a>|
+| Solution Development and Implementation      | <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a>| 
+| Quantitative Data Analysis and Reporting    | <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a>| 
+| Staying Current with Emerging Threats and Technologies      | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"><b>THREAT MODELING</b></a>| 
+| Case Management with CaseNote Professional   | <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/README.md"><b>DIGITAL-FORENSICS IN PRACTICE</b></a>| 
+| Scripting and Automationfor Threat Mitigation | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a>| 
+| Comprehensive Information Security and Risk Management Expertise    | <a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md"><b>PSNI SECURITY POLICY</b></a>| 
 
 <h2>Tools</h2> 
 
