@@ -21,57 +21,54 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+<h2>Tools</h2> 
 
-## Network
+<h3>Network</h3>
 <div>
     <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
    <a href="https://suricata.io/"><img src="https://img.shields.io/badge/Suricata-FF4500?style=for-the badge&logo=suricata&logoColor=white" /></a>
     <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" /></a>
 </div>
     
-## Endpoint Security 
+<h3>Endpoint Security</h3> 
 
 <div>
  <a href="https://linux.die.net/man/8/auditd"><img src="https://img.shields.io/badge/Auditd-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>
    <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon"><img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
 
- ##  Endpoint Detection and Response (EDR)
+<h3>Endpoint Detection and Response (EDR)</h3>
 <div>
     <a href="https://www.elastic.co/endpoint-security"><img src="https://img.shields.io/badge/Elastic%20Endpoint-005571?style=for-the-badge&logo=elastic&logoColor=white" /></a>
 </div>
 
-## Incident Response
+<h3>Incident Response</h3>
 <div>
     <a href="https://www.volatilityfoundation.org/"><img src="https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logo=volatility&logoColor=white" /></a>
 </div>
 
-## System Analysis
+<h3>System Analysis</h3>
 <div>
 <a href="https://docs.microsoft.com/en-us/sysinternals/"><img src="https://img.shields.io/badge/Sysinternals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 </div>
 
-## Malware Analysis
+<h3>Malware Analysis</h3>
 <div>
    <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white" /></a>
 </div>
 
-## Forensic Analysis
+<h3>Forensic Analysis</h3>
 <div>
-    <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge&logo=autopsy&logoColor=white" /></a>
-
-   <a href="https://accessdata.com/product-download/AccessData-ftk-imager-version-4-5"><img src="https://img.shields.io/badge/FTK%20Imager-0072b1?style=for-the-badge&logo=accessdata&logoColor=white" /></a>
-
-
-   <a href="https://www.casenotespro.com/"><img src="https://img.shields.io/badge/CaseNotes%20Professional-0072b1?style=for-the-badge&logo=casenotes&logoColor=white" /></a>
+    <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge&logo=autopsy&logoColor=white" /></a>  <a href="https://accessdata.com/product-download/AccessData-ftk-imager-version-4-5"><img src="https://img.shields.io/badge/FTK%20Imager-0072b1?style=for-the-badge&logo=accessdata&logoColor=white" /></a> <a href="https://www.casenotespro.com/"><img src="https://img.shields.io/badge/CaseNotes%20Professional-0072b1?style=for-the-badge&logo=casenotes&logoColor=white" /></a>
 
 </div>
 
-## 
+<h3>Pogramming language</h3> 
 <div>
-    <img src="https://img.shields.io/badge/-ELK Stack (Elasticsearch, Logstash, Kibana)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OSSIM (Open Source SIEM)-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
 </div>
 
 ## Certifications
