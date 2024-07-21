@@ -90,7 +90,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 - <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/THREAT%20MODEL.pdf"> THREAT MODELING   </a>
 - <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/SUITATIONAL%20AWARENESS%20REPORT%20USING%20PCAP%20FILE.pdf"> SUITATIONAL AWARENESS REPORT USING PCAP FILE </a> 
 - <a href="https://github.com/OluwatobiEAkanni/SITUATIONAL-AWARENESS/blob/main/SUITATION%20AWARENESS%20.pdf"> SITUATIONAL AWARENESS </a> 
-- <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/THREAT%20MODEL.pdf"> FOOTBALL FANTASY PREMIER LEAGUE </a> 
+- <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/FOOTBALL%20FANTASY%20PREMIER%20LEAGUE.pdf"> FOOTBALL FANTASY PREMIER LEAGUE </a> 
 - <a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/blob/main/PSNI%20SECURITY%20POLICY.pdf"> PSNI SECURITY POLICY </a>
 
 ## Publications
