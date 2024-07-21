@@ -24,7 +24,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 | Comprehensive Information Security and Risk Management Expertise    | <a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md"><b>PSNI SECURITY POLICY</b></a>| 
 ## Security and Analysis Tools
 
-| <h3><b>Names</b></h3>                             | <h3><b>Tools</b></h3>        |
+| <h3><b>Services</b></h3>                             | <h3><b>Tools</b></h3>        |
 |-----------------------------------------------|----------------------------|
 | <h3>Network</h3>       | <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>   <a href="https://suricata.io/"><img src="https://img.shields.io/badge/Suricata-FF4500?style=for-the badge&logo=suricata&logoColor=white" /></a>      <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" /></a> |
 | <h3>Endpoint Security</h3> | <a href="https://linux.die.net/man/8/auditd"><img src="https://img.shields.io/badge/Auditd-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>    <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon"><img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>|
@@ -33,8 +33,15 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 | <h3>System Analysis</h3>| <a href="https://docs.microsoft.com/en-us/sysinternals/"><img src="https://img.shields.io/badge/Sysinternals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a> | 
 |  <h3>Malware Analysis</h3> |  <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white" /></a> | 
 | <h3>Forensic Analysis</h3> |  <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge&logo=autopsy&logoColor=white" /></a>    <a href="https://accessdata.com/product-download/AccessData-ftk-imager-version-4-5"><img src="https://img.shields.io/badge/FTK%20Imager-0072b1?style=for-the-badge&logo=accessdata&logoColor=white" /></a>    <a href="https://www.casenotespro.com/"><img src="https://img.shields.io/badge/CaseNotes%20Professional-0072b1?style=for-the-badge&logo=casenotes&logoColor=white" /></a> | 
-| <h3>Pogramming language</h3>  |  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>    <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>    <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" /></a>    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a> | 
 
+## Pogramming language
+
+| <h3><b>Languages</b></h3>                             | <h3><b>Tools</b></h3>        |
+|-----------------------------------------------|----------------------------|
+| <h3>Python</h3>  |  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> | 
+| <h3>R.</h3>  |  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>   |
+| <h3>Visual Basic</h3>  | <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" /></a>  | 
+| <h3>(c sharp) </h3>  | <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>|
 
 ## Certifications
 <div>
