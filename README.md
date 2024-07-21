@@ -74,13 +74,14 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.forage.com" target="_blank">
+    <img src="https://img.shields.io/badge/Forage-0072b1?style=for-the-badge&logo=forage&logoColor=white" alt="Forage Badge"/>
+</a>
+<a href="https://www.isc2.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ISC2-000000?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 Badge"/>
+</a>
+
 </div>
 
 ## Thesis
