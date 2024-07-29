@@ -36,12 +36,12 @@ My journey in computer science has fueled my passion for cybersecurity, and I no
 
 ## Pogramming language
 
-| <h3><b>Languages</b></h3>                             | <h3><b>Tools</b></h3>        |
-|-----------------------------------------------|----------------------------|
-| <h3>Python</h3>  |  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> | 
-| <h3>R.</h3>  |  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>   |
-| <h3>Visual Basic</h3>  | <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" /></a>  | 
-| <h3>(c sharp) </h3>  | <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>|
+| <h3><b>Languages</b></h3>                                |
+|---------------------------------------------------------------------------|
+| <h3>Python <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> </h3> | 
+| <h3>R.   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a> </h3>   |
+| <h3>Visual Basic  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" /></a> </h3> |
+| <h3>(c sharp)    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a> </h3>|
 
 ## Certifications
 <div>
