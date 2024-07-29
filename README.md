@@ -1,12 +1,29 @@
 # Hello, I'm OLUWATOBI E. AKANNI
+
 <a href="https://www.linkedin.com/in/akanni-oluwatobi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://scholar.google.co.uk/citations?hl=en&pli=1&user=fqqaI-sAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+<a href="mailto:akannioluwatobielijah@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
-As a soon-to-be Master's graduate in Cyber Security and a Bachelor's degree holder in Computer Science, I possess a solid foundation in the theoretical and practical aspects of computer systems and cybersecurity principles. With a strong background in programming, data structures, algorithms, and software engineering, I have developed a passion for protecting digital assets and ensuring the integrity of computer systems. Through my academic and professional journey, I have gained expertise in threat analysis, vulnerability assessment, incident response, and security research. I am excited to bring my skills and knowledge to a dynamic and innovative environment, where I can contribute to the development of cutting-edge cybersecurity solutions and stay ahead of the evolving threats in the cyber world. 
+<p style="text-align: justify;">
+As a soon-to-be Master's graduate in Cyber Security and a Bachelor's degree holder in Computer Science, I possess a solid foundation in the theoretical and practical aspects of computer systems and cybersecurity principles.
+</p>
+<p style="text-align: justify;">
+With a strong background in programming, data structures, algorithms, and software engineering, I have developed a passion for protecting digital assets and ensuring the integrity of computer systems.
+</p>
+<p style="text-align: justify;">
+Through my academic and professional journey, I have gained expertise in threat analysis, vulnerability assessment, incident response, and security research.
+</p>
+<p style="text-align: justify;">
+I am excited to bring my skills and knowledge to a dynamic and innovative environment, where I can contribute to the development of cutting-edge cybersecurity solutions and stay ahead of the evolving threats in the cyber world.
+</p>
+
+
 
 ## Objective
 
-My journey in computer science has fueled my passion for cybersecurity, and I now aspire to transition into a career in penetration testing. My goal is to join a team as a Junior Penetration Tester, where I can utilize my skills to simulate attacks, identify vulnerabilities, and help organizations strengthen their defenses.
+<p style="text-align: justify;"> My journey in computer science has fueled my passion for cybersecurity, and I now aspire to transition into a career in penetration testing. My goal is to join a team as a Junior Penetration Tester, where I can utilize my skills to simulate attacks, identify vulnerabilities, and help organizations strengthen their defenses. </p>
 
 ## Skills
 
