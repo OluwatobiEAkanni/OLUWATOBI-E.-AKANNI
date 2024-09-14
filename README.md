@@ -19,26 +19,10 @@ Through my academic and professional journey, I have gained expertise in threat 
 I am excited to bring my skills and knowledge to a dynamic and innovative environment, where I can contribute to the development of cutting-edge cybersecurity solutions and stay ahead of the evolving threats in the cyber world.
 </p>
 
-
-
 ## Objective
 
 <p style="text-align: justify;"> My journey in computer science has fueled my passion for cybersecurity, and I now aspire to transition into a career in penetration testing. My goal is to join a team as a Junior Penetration Tester, where I can utilize my skills to simulate attacks, identify vulnerabilities, and help organizations strengthen their defenses. </p>
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Threat Analysis and Modeling          | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"> <b>THREAT MODELING</b></a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a>|
-| Vulnerability Assessment and Management        | <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a>| 
-| Incident Response Planning and Execution      | <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a>|
-| Solution Development and Implementation      | <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a>| 
-| Quantitative Data Analysis and Reporting    | <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a>| 
-| Staying Current with Emerging Threats and Technologies      | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"><b>THREAT MODELING</b></a>| 
-| Case Management with CaseNote Professional   | <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/README.md"><b>DIGITAL-FORENSICS IN PRACTICE</b></a>| 
-| Scripting and Automationfor Threat Mitigation | <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a>| 
-| Comprehensive Information Security and Risk Management Expertise    | <a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md"><b>PSNI SECURITY POLICY</b></a>| 
 ## Security and Analysis Tools
 
 | <h3><b>Services</b></h3>                             | <h3><b>Tools</b></h3>        |
@@ -65,7 +49,7 @@ I am excited to bring my skills and knowledge to a dynamic and innovative enviro
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Table Example</title>
+    <title>Skills</title>
     <style>
         table {
             width: 50%;
@@ -86,7 +70,7 @@ I am excited to bring my skills and knowledge to a dynamic and innovative enviro
 </head>
 <body>
 
-    <h2 style="text-align: center;">Simple Table Example</h2>
+    <h2 style="text-align: center;"> Skills</h2>
 
     <table>
         <tr>
