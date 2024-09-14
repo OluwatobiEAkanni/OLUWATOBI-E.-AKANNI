@@ -103,7 +103,7 @@ I am excited to bring my skills and knowledge to a dynamic and innovative enviro
             <td> <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a></td>
         </tr>
         <tr>
-            <td>Vulnerability Assessment and Management </td>
+            <td>Vulnerability Assessment and Management</td>
             <td><a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a></td>
         </tr>
           <tr>
@@ -111,16 +111,28 @@ I am excited to bring my skills and knowledge to a dynamic and innovative enviro
             <td> <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a></td>
         </tr>
           <tr>
-            <td> Solution Development and Implementation </td>
+            <td> Solution Development and Implementation</td>
             <td><a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a></td>
         </tr>
           <tr>
-            <td>Emily Johnson</td>
-            <td>25</td>
+            <td>Quantitative Data Analysis and Reporting  </td>
+            <td><a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a></td>
         </tr>
           <tr>
-            <td>Emily Johnson</td>
-            <td>25</td>
+            <td>Staying Current with Emerging Threats and Technologies</td>
+            <td><a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"><b>THREAT MODELING</b></a></td>
+        </tr>
+        <tr>
+            <td>Case Management with CaseNote Professional</td>
+            <td><a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/README.md"><b>DIGITAL-FORENSICS IN PRACTICE</b></a></td>
+        </tr>
+        <tr>
+            <td>Scripting and Automationfor Threat Mitigation</td>
+            <td><a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a></td>
+        </tr>
+        <tr>
+            <td>Comprehensive Information Security and Risk Management Expertise</td>
+            <td><a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md"><b>PSNI SECURITY POLICY</b></a></td>
         </tr>
     </table>
 
