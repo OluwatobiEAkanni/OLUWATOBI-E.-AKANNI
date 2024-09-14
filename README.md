@@ -23,6 +23,27 @@ I am excited to bring my skills and knowledge to a dynamic and innovative enviro
 
 <p style="text-align: justify;"> My journey in computer science has fueled my passion for cybersecurity, and I now aspire to transition into a career in penetration testing. My goal is to join a team as a Junior Penetration Tester, where I can utilize my skills to simulate attacks, identify vulnerabilities, and help organizations strengthen their defenses. </p>
 
+## Skills
+Threat Analysis and Modeling    <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"> <b>THREAT MODELING</b></a>
+
+Network Traffic Monitoring and Attack Detection <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a>
+
+Vulnerability Assessment and Management    <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a>
+
+Incident Response Planning and Execution   <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a>
+
+Solution Development and Implementation   <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a>
+
+Quantitative Data Analysis and Reporting    <a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a>
+
+Staying Current with Emerging Threats and Technologies      | <a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"><b>THREAT MODELING</b></a>
+
+Case Management with CaseNote Professional   <a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/README.md"><b>DIGITAL-FORENSICS IN PRACTICE</b></a>
+
+Scripting and Automationfor Threat Mitigation <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a>
+
+Comprehensive Information Security and Risk Management Expertise   <a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md"><b>PSNI SECURITY POLICY</b></a>
+
 ## Security and Analysis Tools
 
 | <h3><b>Services</b></h3>                             | <h3><b>Tools</b></h3>        |
@@ -44,84 +65,6 @@ I am excited to bring my skills and knowledge to a dynamic and innovative enviro
 | Visual Basic  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" /></a>|
 | (c sharp)    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>|
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills</title>
-    <style>
-        table {
-            width: 50%;
-            border-collapse: collapse;
-            margin: 20px auto;
-        }
-        table, th, td {
-            border: 1px solid black;
-        }
-        th, td {
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
-
-    <h2 style="text-align: center;"> Skills</h2>
-
-    <table>
-        <tr>
-            <th>Skill  </th>
-            <th>Associated Project</th>
-            
-        </tr>
-        <tr>
-            <td>Threat Analysis and Modeling</td>
-            <td><a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"> <b>THREAT MODELING</b></a></td>
-        </tr>
-        <tr>
-            <td>Network Traffic Monitoring and Attack Detection</td>
-            <td> <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a></td>
-        </tr>
-        <tr>
-            <td>Vulnerability Assessment and Management</td>
-            <td><a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a></td>
-        </tr>
-          <tr>
-            <td> Incident Response Planning and Execution</td>
-            <td> <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a></td>
-        </tr>
-          <tr>
-            <td> Solution Development and Implementation</td>
-            <td><a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a></td>
-        </tr>
-          <tr>
-            <td>Quantitative Data Analysis and Reporting  </td>
-            <td><a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a></td>
-        </tr>
-          <tr>
-            <td>Staying Current with Emerging Threats and Technologies</td>
-            <td><a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"><b>THREAT MODELING</b></a></td>
-        </tr>
-        <tr>
-            <td>Case Management with CaseNote Professional</td>
-            <td><a href="https://github.com/OluwatobiEAkanni/DIGITAL-FORENSICS-IN-PRACTICE/blob/main/README.md"><b>DIGITAL-FORENSICS IN PRACTICE</b></a></td>
-        </tr>
-        <tr>
-            <td>Scripting and Automationfor Threat Mitigation</td>
-            <td><a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a></td>
-        </tr>
-        <tr>
-            <td>Comprehensive Information Security and Risk Management Expertise</td>
-            <td><a href="https://github.com/OluwatobiEAkanni/PSNI-SECURITY-POLICY/edit/main/README.md"><b>PSNI SECURITY POLICY</b></a></td>
-        </tr>
-    </table>
-
-</body>
-</html>
 
 ## Certifications
 <div>
