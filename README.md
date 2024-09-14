@@ -90,24 +90,37 @@ I am excited to bring my skills and knowledge to a dynamic and innovative enviro
 
     <table>
         <tr>
-            <th>Name</th>
-            <th>Age</th>
-            <th>City</th>
+            <th>Skill  </th>
+            <th>Associated Project</th>
+            
         </tr>
         <tr>
-            <td>John Doe</td>
-            <td>28</td>
-            <td>New York</td>
+            <td>Threat Analysis and Modeling</td>
+            <td><a href="https://github.com/OluwatobiEAkanni/THREAT-MODELING/blob/main/README.md"> <b>THREAT MODELING</b></a></td>
         </tr>
         <tr>
-            <td>Jane Smith</td>
-            <td>34</td>
-            <td>Los Angeles</td>
+            <td>Network Traffic Monitoring and Attack Detection</td>
+            <td> <a href="https://github.com/OluwatobiEAkanni/SUITATIONAL-AWARENESS-REPORT-USING-PCAP-FILE/blob/main/README.md"><b>SUITATIONAL AWARENESS REPORT USING PCAP FILE</b></a></td>
         </tr>
         <tr>
+            <td>Vulnerability Assessment and Management </td>
+            <td><a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a></td>
+        </tr>
+          <tr>
+            <td> Incident Response Planning and Execution</td>
+            <td> <a href="https://github.com/OluwatobiEAkanni/PEN-TESTING-A-SERVER/blob/main/README.md"><b>PEN TESTING A SERVER</b></a></td>
+        </tr>
+          <tr>
+            <td> Solution Development and Implementation </td>
+            <td><a href="https://github.com/OluwatobiEAkanni/FOOTBALL-FANTASY-PREMIER-LEAGUE/blob/main/README.md"><b>FOOTBALL FANTASY PREMIER LEAGUE</b></a></td>
+        </tr>
+          <tr>
             <td>Emily Johnson</td>
             <td>25</td>
-            <td>Chicago</td>
+        </tr>
+          <tr>
+            <td>Emily Johnson</td>
+            <td>25</td>
         </tr>
     </table>
 
