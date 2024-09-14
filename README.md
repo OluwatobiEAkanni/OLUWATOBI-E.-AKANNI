@@ -53,12 +53,66 @@ I am excited to bring my skills and knowledge to a dynamic and innovative enviro
 
 ## Pogramming language
 
-| <h3><b>Languages</b></h3>                                |
+|   <b>Languages</b>                                |
 |---------------------------------------------------------------------------|
-| <h3>Python <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> </h3> | 
-| <h3>R.   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a> </h3>   |
-| <h3>Visual Basic  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" /></a> </h3> |
-| <h3>(c sharp)    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a> </h3>|
+| Python <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>| 
+| R.   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>   |
+| Visual Basic  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white" /></a>|
+| (c sharp)    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>|
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Table Example</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h2 style="text-align: center;">Simple Table Example</h2>
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>City</th>
+        </tr>
+        <tr>
+            <td>John Doe</td>
+            <td>28</td>
+            <td>New York</td>
+        </tr>
+        <tr>
+            <td>Jane Smith</td>
+            <td>34</td>
+            <td>Los Angeles</td>
+        </tr>
+        <tr>
+            <td>Emily Johnson</td>
+            <td>25</td>
+            <td>Chicago</td>
+        </tr>
+    </table>
+
+</body>
+</html>
 
 ## Certifications
 <div>
